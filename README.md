@@ -7,7 +7,7 @@ The projects explore intelligent agent behaviour in custom simulation environmen
 ---
 ## 📁 Project Structure
 
-
+```
 RL_Projects/
 │
 ├── assignment1_project.py
@@ -20,6 +20,10 @@ RL_Projects/
 ├── training_rewards.png
 ├── all_q_values.png
 └── README.md
+```
+
+
+
 
 
 ## 📂 Project Overview
@@ -120,6 +124,7 @@ pip install numpy matplotlib seaborn gymnasium torch
 
 python q_learning_forest.py
 python main.py
+
 
 
 
