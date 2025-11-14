@@ -5,6 +5,22 @@ This repository contains my reinforcement learning projects completed as part of
 The projects explore intelligent agent behaviour in custom simulation environments using **Q-Learning**, **Deep Q-Networks (DQN)**, and environment design with **Gymnasium**.
 
 ---
+## 📁 Project Structure
+
+
+RL_Projects/
+│
+├── assignment1_project.py
+├── forest_forage_env_assignment2.py
+├── q_learning_forest.py
+├── env.py
+├── DQN_model.py
+├── utils.py
+├── main.py
+├── training_rewards.png
+├── all_q_values.png
+└── README.md
+
 
 ## 📂 Project Overview
 
@@ -104,6 +120,7 @@ pip install numpy matplotlib seaborn gymnasium torch
 
 python q_learning_forest.py
 python main.py
+
 
 
 
