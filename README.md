@@ -91,3 +91,6 @@ Example plots:
 ```bash
 pip install numpy matplotlib seaborn gymnasium torch
 
+python q_learning_forest.py
+python main.py
+
