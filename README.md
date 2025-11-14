@@ -84,16 +84,6 @@ Example plots:
 - `training_curve.png`
 
 ---
-
-## 🚀 How to Run
-
-### **1. Install required libraries**
-```bash
-pip install numpy matplotlib seaborn gymnasium torch
-
-python q_learning_forest.py
-python main.py
-
 ## 📊 Example Output
 
 ### Q-Table Heatmap
@@ -104,4 +94,16 @@ python main.py
 
 ### DQN Training Curve
 ![DQN Training](training_curve.png)
+
+
+## 🚀 How to Run
+
+### **1. Install required libraries**
+```bash
+pip install numpy matplotlib seaborn gymnasium torch
+
+python q_learning_forest.py
+python main.py
+
+
 
