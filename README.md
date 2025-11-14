@@ -94,3 +94,14 @@ pip install numpy matplotlib seaborn gymnasium torch
 python q_learning_forest.py
 python main.py
 
+## 📊 Example Output
+
+### Q-Table Heatmap
+![Q Table](all_q_values.png)
+
+### Training Reward Curve
+![Training Rewards](training_rewards.png)
+
+### DQN Training Curve
+![DQN Training](training_curve.png)
+
